@@ -1,0 +1,41 @@
+h1{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    margin: -10px;
+    font-size: 50px;
+}
+.weight{
+    font-size: 16px;
+    margin-top: 20px;
+}
+.spe{
+    font-size: 28px;
+}
+div{
+
+    font-size: 20px;
+    display:inline;
+    word-spacing: 50px;
+    text-align: center;
+    padding-left: 350px;
+
+}
+img{
+    align-items: center;
+}
+p{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 17px;
+    margin:  10px auto;
+}
+
+
+div:hover{
+    color: rgb(124, 3, 3);
+    
+}
+body{
+    border: 5px double black;
+}
+
